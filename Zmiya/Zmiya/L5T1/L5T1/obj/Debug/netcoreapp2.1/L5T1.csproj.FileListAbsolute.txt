@@ -1,0 +1,11 @@
+/Users/ainagul/Projects/L5T1/L5T1/bin/Debug/netcoreapp2.1/L5T1.deps.json
+/Users/ainagul/Projects/L5T1/L5T1/bin/Debug/netcoreapp2.1/L5T1.runtimeconfig.json
+/Users/ainagul/Projects/L5T1/L5T1/bin/Debug/netcoreapp2.1/L5T1.runtimeconfig.dev.json
+/Users/ainagul/Projects/L5T1/L5T1/bin/Debug/netcoreapp2.1/L5T1.dll
+/Users/ainagul/Projects/L5T1/L5T1/bin/Debug/netcoreapp2.1/L5T1.pdb
+/Users/ainagul/Projects/L5T1/L5T1/obj/Debug/netcoreapp2.1/L5T1.csprojAssemblyReference.cache
+/Users/ainagul/Projects/L5T1/L5T1/obj/Debug/netcoreapp2.1/L5T1.csproj.CoreCompileInputs.cache
+/Users/ainagul/Projects/L5T1/L5T1/obj/Debug/netcoreapp2.1/L5T1.AssemblyInfoInputs.cache
+/Users/ainagul/Projects/L5T1/L5T1/obj/Debug/netcoreapp2.1/L5T1.AssemblyInfo.cs
+/Users/ainagul/Projects/L5T1/L5T1/obj/Debug/netcoreapp2.1/L5T1.dll
+/Users/ainagul/Projects/L5T1/L5T1/obj/Debug/netcoreapp2.1/L5T1.pdb
